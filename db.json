@@ -1,0 +1,121 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": 2,
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "name": "Anjali S",
+      "mobileNo": 1223456,
+      "email": "savant@tcs.com",
+      "age": 23,
+      "gender": "female",
+      "address": "pune",
+      "companyname": "tcs"
+    },
+    {
+      "id": 2,
+      "name": "Sujata",
+      "mobileNo": 1223456,
+      "email": "savant@tcs.com",
+      "age": 43,
+      "gender": "female",
+      "address": "pune",
+      "companyname": "tcs"
+    },
+    {
+      "id": "3",
+      "name": "S",
+      "mobileNo": 1223456,
+      "email": "savant@tcs.com",
+      "age": 23,
+      "gender": "female",
+      "address": "pune",
+      "companyname": "tcs"
+    },
+    {
+      "id": "4",
+      "name": "mai",
+      "mobileNo": 1223456,
+      "email": "savant@tcs.com",
+      "age": 23,
+      "gender": "female",
+      "address": "pune",
+      "companyname": "tcs"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "user": [
+    {
+      "id": 1,
+      "name": "Anjali S",
+      "mobileNo": 9870654356,
+      "email": "savant@tcs.com",
+      "age": 23,
+      "gender": "female",
+      "address": "pune",
+      "companyname": "tcs"
+    },
+    {
+      "id": 3,
+      "name": "Shubham",
+      "mobileNo": 7896543267,
+      "email": "shubhamsavant@tcs.com",
+      "age": 23,
+      "gender": "male",
+      "address": "kaij",
+      "companyname": "renata"
+    },
+    {
+      "id": 5,
+      "name": "harsha",
+      "mobileNo": 8907654323,
+      "email": "harsh",
+      "age": 21,
+      "gender": "option2",
+      "address": "nagpur",
+      "companyname": "its"
+    },
+    {
+      "id": 6,
+      "name": "kamini",
+      "mobileNo": 8907678954,
+      "email": "kamini2tcs.com",
+      "age": 32,
+      "gender": "option1",
+      "address": "nagpur",
+      "companyname": "synchron"
+    },
+    {
+      "id": 7,
+      "name": "Sanika",
+      "mobileNo": 8790432567,
+      "email": "sanika@gmail.com",
+      "age": 23,
+      "gender": "option2",
+      "address": "jalgao",
+      "companyname": "mqure"
+    },
+    {
+      "id": 8,
+      "name": "Rahul",
+      "mobileNo": 9807656789,
+      "email": "rahul@gmail.com",
+      "age": 25,
+      "gender": "option1",
+      "address": "pune",
+      "companyname": "Sun pharma"
+    }
+  ]
+}

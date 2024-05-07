@@ -1,0 +1,9 @@
+.decoration{
+    text-decoration: none;
+}
+.detailsForm{
+    display: flex;
+}
+.formwidth{
+width: 100px;
+}
